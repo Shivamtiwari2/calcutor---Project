@@ -10,3 +10,7 @@ This is my first project 😊
 ## How to run 
 '''bash
 Python calcutor.py
+
+
+  ## Author
+  SHIVAM KUMAR TIWARI
